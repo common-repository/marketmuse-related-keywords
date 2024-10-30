@@ -1,0 +1,114 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MarketMuse Related Keywords\n"
+"POT-Creation-Date: 2015-06-11 20:12-0000\n"
+"PO-Revision-Date: 2015-05-17 07:57-0000\n"
+"Last-Translator: \n"
+"Language-Team: ViV Web Solutions\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/class-mm-related-keywords-admin.php:152
+msgid "Fetching.."
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:153
+#: ../admin/views/metabox.php:21
+msgid "Analyze"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:154
+#: ../admin/views/metabox.php:52
+msgid "Topics"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:155
+#: ../admin/views/metabox.php:54
+msgid "Frequency"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:156
+#: ../admin/views/metabox.php:53
+msgid "Number of times this topic appears in your content"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:157
+#: ../admin/views/metabox.php:43
+msgid "Focus keyword count"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:158
+#: ../admin/views/metabox.php:48
+msgid "Related topics covered"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:179
+#: ../admin/class-mm-related-keywords-admin.php:216
+msgid "MarketMuse Related Keywords"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:180
+msgid "Related Keywords"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:311
+#, php-format
+msgid ""
+"Plugin development and design by <a href=\"%s\" target=\"_blank\">ViV Web "
+"Solutions</a>"
+msgstr ""
+
+#: ../admin/class-mm-related-keywords-admin.php:337
+msgid "API Key"
+msgstr ""
+
+#: ../admin/views/admin.php:27
+msgid "Plugin powered by"
+msgstr ""
+
+#: ../admin/views/admin.php:29
+msgid "MarketMuse Logo"
+msgstr ""
+
+#: ../admin/views/admin.php:31
+#, php-format
+msgid ""
+"Boost organic traffic for your SEO and content marketing! Visit <a href=\"%s"
+"\" target=\"_blank\">marketmuse.com</a>"
+msgstr ""
+
+#: ../admin/views/admin.php:33
+#, php-format
+msgid ""
+"To request an API key, please visit <a href=\"%s\" target=\"_blank"
+"\">marketmuse.com</a> and Contact Us"
+msgstr ""
+
+#: ../admin/views/metabox.php:16
+msgid "Enter a keyword that this post covers."
+msgstr ""
+
+#: ../admin/views/metabox.php:93
+msgid "Want to unlock 50 suggestions?"
+msgstr ""
+
+#: ../admin/views/metabox.php:94
+#, php-format
+msgid ""
+"To get API key, please contact us at <a href=\"%s\" target=\"_blank"
+"\">MarketMuse.com</a>"
+msgstr ""
+
+#: ../admin/views/metabox.php:95
+#, php-format
+msgid "Enter the key on our <a href=\"%s\">settings page</a>."
+msgstr ""
